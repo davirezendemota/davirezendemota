@@ -1,12 +1,5 @@
 <h1 id="top" align="left">About me</h1>
-<p align="left">Hi! My name is <strong>Davi Rezende</strong>, I am an Web Developer passionate about creating and developing new ways to solve problems.</p>
-
-- 🔭 I’m currently working on an in-house software based on JavaScript and PHP for team management in the company where I work for.
-- 📫 How to reach me: rezendemota.davi@gmail.com
- 
-<h2 align="left">Studying</h2>
-<img alt="Davi-Git" height="30" width="130" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="Davi-Git" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<p align="left">Hi! My name is <strong>Davi Rezende</strong>, I am an Web Developer passionate about creating and developing new ways to solve problems. <br> I’m currently working on an <strong>in-house software</strong> based on <strong>JavaScript</strong> and <strong>PHP</strong> for team management in the company where I work for.</p>
 
 <h2 align="left">GitHub Status</h2>
 <div align="center">
@@ -19,6 +12,12 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davirezendemota&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirezendemota&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+<h2 align="left">Studying</h2>
+<img alt="Davi-Git" height="30" width="130" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="Davi-Git" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+
  
 <h2 align="left">Main Skills</h2>
 <div style="display: flex;gap:4px">
