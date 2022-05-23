@@ -8,6 +8,7 @@
 <img alt="Davi-Git" height="30" width="130" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="Davi-Git" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
+![Snake animation](https://github.com/davirezendemota/davirezendemota/blob/output/github-contribution-grid-snake.svg)
  
 <h2 align="left">GitHub Status</h2>
 <div align="left">
@@ -15,8 +16,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davirezendemota&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirezendemota&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
- ![Snake animation](https://github.com/davirezendemota/davirezendemota/blob/output/github-contribution-grid-snake.svg)
  
 <h2 align="left">Main Skills</h2>
 <div style="display: flex;gap:4px">
