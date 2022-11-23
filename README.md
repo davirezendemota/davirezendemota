@@ -3,7 +3,7 @@
 
 <h2 align="left">GitHub Status</h2>
 
-![Snake animation](https://github.com/davirezendemota/davirezendemota/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/davirezendemota/davirezendemota/blob/output/github-contribution-grid-snake.svg) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
