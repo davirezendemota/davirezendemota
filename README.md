@@ -13,12 +13,7 @@
   <li>NextJs</li>
   <li>TalwindCss</li>
   <li>NodeJs</li>
+  <li>Docker</li>
   <li>HTML/CSS</li>
   <li>Git/GitHub</li>
 </ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/davirezendemota" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="davirezendemota" height="30" width="30" /></a>
-<a href="https://instagram.com/davirezendemota" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="davirezendemota" height="30" width="30" /></a>
-</p>
